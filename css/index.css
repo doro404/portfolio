@@ -40,6 +40,7 @@ main{
 
 .expandable {
     overflow: hidden;
+    place-items: center;
     height: auto;
     opacity: 0;
     transition: height 1s ease, opacity 0.5s ease, padding 0.5s ease;
@@ -397,6 +398,11 @@ main {
     
     .item_list img{
         width: 100%;
+    }
+
+    .expandable{
+        place-content: center;
+        place-items: center;
     }
 
     .item_list{
