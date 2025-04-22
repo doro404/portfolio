@@ -11,4 +11,4 @@ telegram_link: "https://t.me/seuUsuario",
 mail_endereço: "mailto:seuemail@exemplo.com",
 name: "@ 2025 Paulo Henrique",
 sobre_min: "OLA ESSE E UM TEXTO SOBRE MIMaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-};
+}
