@@ -304,11 +304,10 @@ main {
 
 .modal-contato-box ul{
     margin-top: 1rem;
+    width: 100%;
     display: flex;
-    align-content: center;
     justify-self: center;
-    justify-items: anchor-center;
-    align-self: center;
+    justify-content: center;
     gap: 0.5rem;
 }
 
