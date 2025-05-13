@@ -1,6 +1,6 @@
 // config.js
 export const tag_site = {
-    title: "meu site",
+    title: "Portfolio | doro404",
     description: 'description',
     favicon: "/img/logo.png",
 };
